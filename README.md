@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Mandelbrot web worker
+
+This project demonstrates the use of TypeScript web workers in React. It implements an interactive viewer of the Mandelbrot set (zoom/pan) with progressive updates.
+
+The code was adapted from [this project](https://github.com/wmhilton/mandelbrot-playground) from @wmhilton.
+
+Live view: https://magland.github.io/mandelbrot-web-worker/
+
+![image](https://user-images.githubusercontent.com/3679296/214170841-fab424fb-f1b4-47a6-a7be-2cbe1a219597.png)
+
+## Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
