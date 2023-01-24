@@ -1,6 +1,6 @@
 # Mandelbrot web worker
 
-This project demonstrates the use of TypeScript web workers in React. It implements an interactive viewer of the Mandelbrot set (zoom/pan) with progressive updates.
+This project demonstrates the use of TypeScript web workers in React. It implements an interactive viewer of the Mandelbrot set (zoom/pan) with progressive updates. It is the example in [this blog post](https://magland.hashnode.dev/typescript-web-workers-in-react).
 
 The code was adapted from [this project](https://github.com/wmhilton/mandelbrot-playground) from @wmhilton.
 
